@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 namespace Bamphimao
 {
-    public partial class Form1 : Form
+    public partial class Banphimao : Form
     {
         protected override CreateParams CreateParams
         {
@@ -21,7 +21,7 @@ namespace Bamphimao
                 
             }
         }
-        public Form1()
+        public Banphimao()
         { InitializeComponent(); }
 
         private void button15_Click(object sender, EventArgs e)
@@ -647,13 +647,10 @@ namespace Bamphimao
 
         private void button54_Click(object sender, EventArgs e)
         {
-            SendKeys.Send("{^}");
+            SendKeys.Send("^");
         }
 
-        private void button55_Click(object sender, EventArgs e)
-        {
-            SendKeys.Send("{APPSKEY}");
-        }
+       
 
         private void button56_Click(object sender, EventArgs e)
         {
@@ -684,6 +681,8 @@ namespace Bamphimao
         {
             SendKeys.Send("{TAB}");
         }
+
+      
     }
 
       

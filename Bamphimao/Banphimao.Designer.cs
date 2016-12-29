@@ -1,6 +1,6 @@
 ﻿namespace Bamphimao
 {
-    partial class Form1
+    partial class Banphimao
     {
         /// <summary>
         /// Required designer variable.
@@ -81,25 +81,27 @@
             this.button50 = new System.Windows.Forms.Button();
             this.button51 = new System.Windows.Forms.Button();
             this.button52 = new System.Windows.Forms.Button();
-            this.checkBox10 = new System.Windows.Forms.CheckBox();
-            this.checkBox12 = new System.Windows.Forms.CheckBox();
             this.button40 = new System.Windows.Forms.Button();
             this.button53 = new System.Windows.Forms.Button();
             this.button54 = new System.Windows.Forms.Button();
             this.button55 = new System.Windows.Forms.Button();
-            this.checkBox3 = new System.Windows.Forms.CheckBox();
             this.button56 = new System.Windows.Forms.Button();
-            this.checkBox4 = new System.Windows.Forms.CheckBox();
             this.button57 = new System.Windows.Forms.Button();
             this.button58 = new System.Windows.Forms.Button();
             this.button59 = new System.Windows.Forms.Button();
             this.button60 = new System.Windows.Forms.Button();
             this.button61 = new System.Windows.Forms.Button();
             this.button62 = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // button1
             // 
+            this.button1.AllowDrop = true;
+            this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.button1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.button1.BackColor = System.Drawing.Color.Black;
             this.button1.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button1.Location = new System.Drawing.Point(55, 91);
@@ -112,6 +114,10 @@
             // 
             // checkBox1
             // 
+            this.checkBox1.AllowDrop = true;
+            this.checkBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.checkBox1.Appearance = System.Windows.Forms.Appearance.Button;
             this.checkBox1.BackColor = System.Drawing.Color.Black;
             this.checkBox1.ForeColor = System.Drawing.SystemColors.ButtonFace;
@@ -124,6 +130,10 @@
             // 
             // button2
             // 
+            this.button2.AllowDrop = true;
+            this.button2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button2.BackColor = System.Drawing.Color.Black;
             this.button2.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button2.Location = new System.Drawing.Point(121, 91);
@@ -136,6 +146,10 @@
             // 
             // button3
             // 
+            this.button3.AllowDrop = true;
+            this.button3.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button3.BackColor = System.Drawing.Color.Black;
             this.button3.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button3.Location = new System.Drawing.Point(187, 91);
@@ -148,6 +162,10 @@
             // 
             // button4
             // 
+            this.button4.AllowDrop = true;
+            this.button4.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button4.BackColor = System.Drawing.Color.Black;
             this.button4.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button4.Location = new System.Drawing.Point(253, 91);
@@ -160,6 +178,10 @@
             // 
             // button5
             // 
+            this.button5.AllowDrop = true;
+            this.button5.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button5.BackColor = System.Drawing.Color.Black;
             this.button5.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button5.Location = new System.Drawing.Point(319, 91);
@@ -172,6 +194,10 @@
             // 
             // button6
             // 
+            this.button6.AllowDrop = true;
+            this.button6.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button6.BackColor = System.Drawing.Color.Black;
             this.button6.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button6.Location = new System.Drawing.Point(385, 91);
@@ -184,6 +210,10 @@
             // 
             // button7
             // 
+            this.button7.AllowDrop = true;
+            this.button7.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button7.BackColor = System.Drawing.Color.Black;
             this.button7.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button7.Location = new System.Drawing.Point(451, 91);
@@ -196,6 +226,10 @@
             // 
             // button8
             // 
+            this.button8.AllowDrop = true;
+            this.button8.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button8.BackColor = System.Drawing.Color.Black;
             this.button8.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button8.Location = new System.Drawing.Point(517, 91);
@@ -208,6 +242,10 @@
             // 
             // button9
             // 
+            this.button9.AllowDrop = true;
+            this.button9.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button9.BackColor = System.Drawing.Color.Black;
             this.button9.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button9.Location = new System.Drawing.Point(583, 91);
@@ -220,6 +258,10 @@
             // 
             // button10
             // 
+            this.button10.AllowDrop = true;
+            this.button10.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button10.BackColor = System.Drawing.Color.Black;
             this.button10.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button10.Location = new System.Drawing.Point(649, 91);
@@ -232,6 +274,10 @@
             // 
             // button11
             // 
+            this.button11.AllowDrop = true;
+            this.button11.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button11.BackColor = System.Drawing.Color.Black;
             this.button11.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button11.Location = new System.Drawing.Point(781, 91);
@@ -244,6 +290,10 @@
             // 
             // button12
             // 
+            this.button12.AllowDrop = true;
+            this.button12.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button12.BackColor = System.Drawing.Color.Black;
             this.button12.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button12.Location = new System.Drawing.Point(715, 91);
@@ -256,6 +306,10 @@
             // 
             // button13
             // 
+            this.button13.AllowDrop = true;
+            this.button13.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button13.BackColor = System.Drawing.Color.Black;
             this.button13.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button13.Location = new System.Drawing.Point(913, 91);
@@ -268,6 +322,10 @@
             // 
             // button14
             // 
+            this.button14.AllowDrop = true;
+            this.button14.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button14.BackColor = System.Drawing.Color.Black;
             this.button14.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button14.Location = new System.Drawing.Point(847, 91);
@@ -280,6 +338,10 @@
             // 
             // button15
             // 
+            this.button15.AllowDrop = true;
+            this.button15.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button15.BackColor = System.Drawing.Color.Black;
             this.button15.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button15.Location = new System.Drawing.Point(121, 157);
@@ -292,6 +354,10 @@
             // 
             // button16
             // 
+            this.button16.AllowDrop = true;
+            this.button16.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button16.BackColor = System.Drawing.Color.Black;
             this.button16.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button16.Location = new System.Drawing.Point(187, 157);
@@ -304,6 +370,10 @@
             // 
             // button17
             // 
+            this.button17.AllowDrop = true;
+            this.button17.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button17.BackColor = System.Drawing.Color.Black;
             this.button17.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button17.Location = new System.Drawing.Point(253, 157);
@@ -316,6 +386,10 @@
             // 
             // button18
             // 
+            this.button18.AllowDrop = true;
+            this.button18.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button18.BackColor = System.Drawing.Color.Black;
             this.button18.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button18.Location = new System.Drawing.Point(319, 157);
@@ -328,6 +402,10 @@
             // 
             // button19
             // 
+            this.button19.AllowDrop = true;
+            this.button19.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button19.BackColor = System.Drawing.Color.Black;
             this.button19.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button19.Location = new System.Drawing.Point(385, 157);
@@ -340,6 +418,10 @@
             // 
             // button20
             // 
+            this.button20.AllowDrop = true;
+            this.button20.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button20.BackColor = System.Drawing.Color.Black;
             this.button20.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button20.Location = new System.Drawing.Point(451, 157);
@@ -352,6 +434,10 @@
             // 
             // button21
             // 
+            this.button21.AllowDrop = true;
+            this.button21.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button21.BackColor = System.Drawing.Color.Black;
             this.button21.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button21.Location = new System.Drawing.Point(517, 157);
@@ -364,6 +450,10 @@
             // 
             // button22
             // 
+            this.button22.AllowDrop = true;
+            this.button22.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button22.BackColor = System.Drawing.Color.Black;
             this.button22.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button22.Location = new System.Drawing.Point(583, 157);
@@ -376,6 +466,10 @@
             // 
             // button23
             // 
+            this.button23.AllowDrop = true;
+            this.button23.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button23.BackColor = System.Drawing.Color.Black;
             this.button23.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button23.Location = new System.Drawing.Point(649, 157);
@@ -388,6 +482,10 @@
             // 
             // button24
             // 
+            this.button24.AllowDrop = true;
+            this.button24.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button24.BackColor = System.Drawing.Color.Black;
             this.button24.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button24.Location = new System.Drawing.Point(781, 157);
@@ -400,6 +498,10 @@
             // 
             // button25
             // 
+            this.button25.AllowDrop = true;
+            this.button25.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button25.BackColor = System.Drawing.Color.Black;
             this.button25.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button25.Location = new System.Drawing.Point(715, 157);
@@ -412,6 +514,10 @@
             // 
             // button26
             // 
+            this.button26.AllowDrop = true;
+            this.button26.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button26.BackColor = System.Drawing.Color.Black;
             this.button26.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button26.Location = new System.Drawing.Point(847, 157);
@@ -424,6 +530,10 @@
             // 
             // button27
             // 
+            this.button27.AllowDrop = true;
+            this.button27.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button27.BackColor = System.Drawing.Color.Black;
             this.button27.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button27.Location = new System.Drawing.Point(55, 157);
@@ -436,6 +546,10 @@
             // 
             // checkBox2
             // 
+            this.checkBox2.AllowDrop = true;
+            this.checkBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.checkBox2.Appearance = System.Windows.Forms.Appearance.Button;
             this.checkBox2.BackColor = System.Drawing.Color.Black;
             this.checkBox2.ForeColor = System.Drawing.SystemColors.ButtonFace;
@@ -448,6 +562,10 @@
             // 
             // button28
             // 
+            this.button28.AllowDrop = true;
+            this.button28.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button28.BackColor = System.Drawing.Color.Black;
             this.button28.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button28.Location = new System.Drawing.Point(253, 355);
@@ -460,6 +578,10 @@
             // 
             // button29
             // 
+            this.button29.AllowDrop = true;
+            this.button29.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button29.BackColor = System.Drawing.Color.Black;
             this.button29.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button29.Location = new System.Drawing.Point(253, 289);
@@ -472,6 +594,10 @@
             // 
             // button30
             // 
+            this.button30.AllowDrop = true;
+            this.button30.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button30.BackColor = System.Drawing.Color.Black;
             this.button30.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button30.Location = new System.Drawing.Point(319, 289);
@@ -484,6 +610,10 @@
             // 
             // button31
             // 
+            this.button31.AllowDrop = true;
+            this.button31.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button31.BackColor = System.Drawing.Color.Black;
             this.button31.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button31.Location = new System.Drawing.Point(385, 289);
@@ -496,6 +626,10 @@
             // 
             // button32
             // 
+            this.button32.AllowDrop = true;
+            this.button32.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button32.BackColor = System.Drawing.Color.Black;
             this.button32.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button32.Location = new System.Drawing.Point(451, 289);
@@ -508,6 +642,10 @@
             // 
             // button33
             // 
+            this.button33.AllowDrop = true;
+            this.button33.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button33.BackColor = System.Drawing.Color.Black;
             this.button33.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button33.Location = new System.Drawing.Point(517, 289);
@@ -520,6 +658,10 @@
             // 
             // button34
             // 
+            this.button34.AllowDrop = true;
+            this.button34.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button34.BackColor = System.Drawing.Color.Black;
             this.button34.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button34.Location = new System.Drawing.Point(583, 289);
@@ -532,6 +674,10 @@
             // 
             // button35
             // 
+            this.button35.AllowDrop = true;
+            this.button35.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button35.BackColor = System.Drawing.Color.Black;
             this.button35.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button35.Location = new System.Drawing.Point(649, 289);
@@ -544,6 +690,10 @@
             // 
             // button36
             // 
+            this.button36.AllowDrop = true;
+            this.button36.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button36.BackColor = System.Drawing.Color.Black;
             this.button36.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button36.Location = new System.Drawing.Point(715, 289);
@@ -556,6 +706,10 @@
             // 
             // button37
             // 
+            this.button37.AllowDrop = true;
+            this.button37.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button37.BackColor = System.Drawing.Color.Black;
             this.button37.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button37.Location = new System.Drawing.Point(781, 289);
@@ -568,6 +722,10 @@
             // 
             // button38
             // 
+            this.button38.AllowDrop = true;
+            this.button38.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button38.BackColor = System.Drawing.Color.Black;
             this.button38.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button38.Location = new System.Drawing.Point(913, 289);
@@ -580,6 +738,10 @@
             // 
             // button39
             // 
+            this.button39.AllowDrop = true;
+            this.button39.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button39.BackColor = System.Drawing.Color.Black;
             this.button39.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button39.Location = new System.Drawing.Point(847, 289);
@@ -592,6 +754,10 @@
             // 
             // button41
             // 
+            this.button41.AllowDrop = true;
+            this.button41.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button41.BackColor = System.Drawing.Color.Black;
             this.button41.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button41.Location = new System.Drawing.Point(121, 223);
@@ -604,6 +770,10 @@
             // 
             // button42
             // 
+            this.button42.AllowDrop = true;
+            this.button42.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button42.BackColor = System.Drawing.Color.Black;
             this.button42.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button42.Location = new System.Drawing.Point(187, 223);
@@ -616,6 +786,10 @@
             // 
             // button43
             // 
+            this.button43.AllowDrop = true;
+            this.button43.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button43.BackColor = System.Drawing.Color.Black;
             this.button43.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button43.Location = new System.Drawing.Point(253, 223);
@@ -628,6 +802,10 @@
             // 
             // button44
             // 
+            this.button44.AllowDrop = true;
+            this.button44.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button44.BackColor = System.Drawing.Color.Black;
             this.button44.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button44.Location = new System.Drawing.Point(319, 223);
@@ -640,6 +818,10 @@
             // 
             // button45
             // 
+            this.button45.AllowDrop = true;
+            this.button45.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button45.BackColor = System.Drawing.Color.Black;
             this.button45.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button45.Location = new System.Drawing.Point(385, 223);
@@ -652,6 +834,10 @@
             // 
             // button46
             // 
+            this.button46.AllowDrop = true;
+            this.button46.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button46.BackColor = System.Drawing.Color.Black;
             this.button46.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button46.Location = new System.Drawing.Point(451, 223);
@@ -664,6 +850,10 @@
             // 
             // button47
             // 
+            this.button47.AllowDrop = true;
+            this.button47.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button47.BackColor = System.Drawing.Color.Black;
             this.button47.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button47.Location = new System.Drawing.Point(517, 223);
@@ -676,6 +866,10 @@
             // 
             // button48
             // 
+            this.button48.AllowDrop = true;
+            this.button48.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button48.BackColor = System.Drawing.Color.Black;
             this.button48.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button48.Location = new System.Drawing.Point(583, 223);
@@ -688,6 +882,10 @@
             // 
             // button49
             // 
+            this.button49.AllowDrop = true;
+            this.button49.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button49.BackColor = System.Drawing.Color.Black;
             this.button49.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button49.Location = new System.Drawing.Point(649, 223);
@@ -700,6 +898,10 @@
             // 
             // button50
             // 
+            this.button50.AllowDrop = true;
+            this.button50.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button50.BackColor = System.Drawing.Color.Black;
             this.button50.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button50.Location = new System.Drawing.Point(781, 223);
@@ -711,6 +913,10 @@
             // 
             // button51
             // 
+            this.button51.AllowDrop = true;
+            this.button51.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button51.BackColor = System.Drawing.Color.Black;
             this.button51.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button51.Location = new System.Drawing.Point(715, 223);
@@ -723,6 +929,10 @@
             // 
             // button52
             // 
+            this.button52.AllowDrop = true;
+            this.button52.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button52.BackColor = System.Drawing.Color.Black;
             this.button52.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button52.Location = new System.Drawing.Point(847, 223);
@@ -732,28 +942,12 @@
             this.button52.Text = "~\r\n#";
             this.button52.UseVisualStyleBackColor = false;
             // 
-            // checkBox10
-            // 
-            this.checkBox10.Appearance = System.Windows.Forms.Appearance.Button;
-            this.checkBox10.Location = new System.Drawing.Point(1636, 355);
-            this.checkBox10.Name = "checkBox10";
-            this.checkBox10.Size = new System.Drawing.Size(60, 60);
-            this.checkBox10.TabIndex = 1;
-            this.checkBox10.Text = "checkBox1";
-            this.checkBox10.UseVisualStyleBackColor = true;
-            // 
-            // checkBox12
-            // 
-            this.checkBox12.Appearance = System.Windows.Forms.Appearance.Button;
-            this.checkBox12.Location = new System.Drawing.Point(1639, 355);
-            this.checkBox12.Name = "checkBox12";
-            this.checkBox12.Size = new System.Drawing.Size(60, 60);
-            this.checkBox12.TabIndex = 1;
-            this.checkBox12.Text = "checkBox1";
-            this.checkBox12.UseVisualStyleBackColor = true;
-            // 
             // button40
             // 
+            this.button40.AllowDrop = true;
+            this.button40.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button40.BackColor = System.Drawing.Color.Black;
             this.button40.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button40.Location = new System.Drawing.Point(913, 157);
@@ -766,6 +960,10 @@
             // 
             // button53
             // 
+            this.button53.AllowDrop = true;
+            this.button53.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button53.BackColor = System.Drawing.Color.Black;
             this.button53.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button53.Location = new System.Drawing.Point(979, 91);
@@ -778,6 +976,10 @@
             // 
             // button54
             // 
+            this.button54.AllowDrop = true;
+            this.button54.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button54.BackColor = System.Drawing.Color.Black;
             this.button54.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button54.Location = new System.Drawing.Point(55, 355);
@@ -790,6 +992,10 @@
             // 
             // button55
             // 
+            this.button55.AllowDrop = true;
+            this.button55.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button55.BackColor = System.Drawing.Color.Black;
             this.button55.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button55.Location = new System.Drawing.Point(122, 355);
@@ -798,20 +1004,13 @@
             this.button55.TabIndex = 0;
             this.button55.Text = "Start";
             this.button55.UseVisualStyleBackColor = false;
-            this.button55.Click += new System.EventHandler(this.button55_Click);
-            // 
-            // checkBox3
-            // 
-            this.checkBox3.Appearance = System.Windows.Forms.Appearance.Button;
-            this.checkBox3.Location = new System.Drawing.Point(1706, 355);
-            this.checkBox3.Name = "checkBox3";
-            this.checkBox3.Size = new System.Drawing.Size(60, 60);
-            this.checkBox3.TabIndex = 1;
-            this.checkBox3.Text = "checkBox1";
-            this.checkBox3.UseVisualStyleBackColor = true;
             // 
             // button56
             // 
+            this.button56.AllowDrop = true;
+            this.button56.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button56.BackColor = System.Drawing.Color.Black;
             this.button56.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button56.Location = new System.Drawing.Point(187, 355);
@@ -822,18 +1021,12 @@
             this.button56.UseVisualStyleBackColor = false;
             this.button56.Click += new System.EventHandler(this.button56_Click);
             // 
-            // checkBox4
-            // 
-            this.checkBox4.Appearance = System.Windows.Forms.Appearance.Button;
-            this.checkBox4.Location = new System.Drawing.Point(1771, 355);
-            this.checkBox4.Name = "checkBox4";
-            this.checkBox4.Size = new System.Drawing.Size(60, 60);
-            this.checkBox4.TabIndex = 1;
-            this.checkBox4.Text = "Alt";
-            this.checkBox4.UseVisualStyleBackColor = true;
-            // 
             // button57
             // 
+            this.button57.AllowDrop = true;
+            this.button57.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button57.BackColor = System.Drawing.Color.Black;
             this.button57.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button57.Location = new System.Drawing.Point(847, 355);
@@ -846,6 +1039,10 @@
             // 
             // button58
             // 
+            this.button58.AllowDrop = true;
+            this.button58.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button58.BackColor = System.Drawing.Color.Black;
             this.button58.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button58.Location = new System.Drawing.Point(913, 355);
@@ -858,6 +1055,10 @@
             // 
             // button59
             // 
+            this.button59.AllowDrop = true;
+            this.button59.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button59.BackColor = System.Drawing.Color.Black;
             this.button59.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button59.Location = new System.Drawing.Point(979, 157);
@@ -870,6 +1071,10 @@
             // 
             // button60
             // 
+            this.button60.AllowDrop = true;
+            this.button60.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button60.BackColor = System.Drawing.Color.Black;
             this.button60.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button60.Location = new System.Drawing.Point(979, 223);
@@ -882,6 +1087,10 @@
             // 
             // button61
             // 
+            this.button61.AllowDrop = true;
+            this.button61.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button61.BackColor = System.Drawing.Color.Black;
             this.button61.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button61.Location = new System.Drawing.Point(979, 289);
@@ -894,6 +1103,10 @@
             // 
             // button62
             // 
+            this.button62.AllowDrop = true;
+            this.button62.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button62.BackColor = System.Drawing.Color.Black;
             this.button62.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button62.Location = new System.Drawing.Point(979, 355);
@@ -904,15 +1117,25 @@
             this.button62.UseVisualStyleBackColor = false;
             this.button62.Click += new System.EventHandler(this.button62_Click);
             // 
-            // Form1
+            // label1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1155, 421);
-            this.Controls.Add(this.checkBox4);
-            this.Controls.Add(this.checkBox3);
-            this.Controls.Add(this.checkBox12);
-            this.Controls.Add(this.checkBox10);
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.label1.Font = new System.Drawing.Font("Magneto", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(58, 23);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(336, 32);
+            this.label1.TabIndex = 2;
+            this.label1.Text = "On Screen Keyboard";
+            // 
+            // Banphimao
+            // 
+            this.AccessibleName = "";
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
+            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.ClientSize = new System.Drawing.Size(1095, 421);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.checkBox2);
             this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.button52);
@@ -977,9 +1200,11 @@
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
-            this.Name = "Form1";
+            this.Name = "Banphimao";
+            this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Show;
             this.Text = "Form1";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -1038,21 +1263,18 @@
         private System.Windows.Forms.Button button50;
         private System.Windows.Forms.Button button51;
         private System.Windows.Forms.Button button52;
-        private System.Windows.Forms.CheckBox checkBox10;
-        private System.Windows.Forms.CheckBox checkBox12;
         private System.Windows.Forms.Button button40;
         private System.Windows.Forms.Button button53;
         private System.Windows.Forms.Button button54;
         private System.Windows.Forms.Button button55;
-        private System.Windows.Forms.CheckBox checkBox3;
         private System.Windows.Forms.Button button56;
-        private System.Windows.Forms.CheckBox checkBox4;
         private System.Windows.Forms.Button button57;
         private System.Windows.Forms.Button button58;
         private System.Windows.Forms.Button button59;
         private System.Windows.Forms.Button button60;
         private System.Windows.Forms.Button button61;
         private System.Windows.Forms.Button button62;
+        private System.Windows.Forms.Label label1;
     }
 }
 
